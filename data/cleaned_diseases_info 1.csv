@@ -1,0 +1,599 @@
+Disease,Symptoms,Specialty
+Jaundice,"Yellowish coloration of skin and sclera, itchiness","Gastroenterology, hepatology, general surgery"
+Hyperthyroidism,"Irritability, muscle weakness, sleeping problems, fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, weight loss",Endocrinology
+Tuberculosis,"Chronic cough, fever, cough with bloody mucus, weight loss","Infectious disease, pulmonology"
+Heart Attack,"Chest pain, shortness of breath, nausea/vomiting, dizziness or lightheadedness, cold sweat, feeling tired; arm, neck, back, jaw, or stomach pain, decreased level or total loss of consciousness","Cardiology, emergency medicine"
+Dengue,"Fever, headache, muscle and joint pain, rash. Can be severe, mild or asymptomatic",Infectious disease
+Urinary Tract Infection,"Pain with urination, frequent urination, feeling the need to urinate despite having an empty bladder","Infectious disease, Urology"
+Impetigo,"Yellowish skin crusts, painful","Dermatology, infectious disease"
+Malaria,"Fever, vomiting, headache, yellow skin",Infectious disease
+Gastroenteritis,"Diarrhea, vomiting, abdominal pain, fever","Infectious disease, gastroenterology"
+Hepatitis E,"Nausea, jaundice","Infectious disease, Hepatology"
+Hepatitis D,"Feeling tired, nausea and vomiting","Gastroenterology, infectious disease"
+Allergy,"Red eyes, itchy rash, vomiting, runny nose, shortness of breath, swelling, sneezing, and cough",Immunology
+Psoriasis,"Red (purple on darker skin), itchy, scaly patches of skin","Dermatology (primarily);
+immunology, rheumatology and other specialties (e.g., cardiology and vascular medicine, nephrology, hepatology/gastroenterology, endocrinology, haematology) (indirectly/by association)"
+Asbestosis,"Shortness of breath, cough, wheezing, chest pain",Pulmonology
+Diabetes ,"Frequent urination
+Increased thirst
+Increased hunger",Endocrinology
+Gastroesophageal Reflux Disease,"Taste of acid, heartburn, bad breath, chest pain, breathing problems",Gastroenterology
+Hypothyroidism,"extreme fatigue, Poor ability to tolerate cold, feeling tired, muscle aches, constipation, weight gain, depression, anxiety, irritability",Endocrinology
+Hypoglycemia,"Headache, blurred vision, shakiness, dizziness, weakness, tiredness, sweating, clamminess, fast heart rate, pounding heartbeat, nervousness or anxiety, hunger, nausea, pins and needles sensation, difficulty talking, confusion, unusual behavior, lightheadedness, pale skin color, seizures",Endocrinology
+Typhoid,"Fever that starts low and increases daily, possibly reaching as high as 104.9 °F (40.5 °C) Headache, weakness and fatigue, muscle aches, sweating, dry cough, loss of appetite, weight loss, stomach pain, diarrhea or constipation, rash, swollen stomach (enlarged liver or spleen)",Infectious diseases
+Diabetes,"Frequent urination
+Increased thirst
+Increased hunger",Endocrinology
+Arthritis,"Joint pain, stiffness, redness, swelling, decreased range of motion",Rheumatology
+Pneumonia,"Cough, shortness of breath, chest pain, fever","Pulmonology, infectious disease"
+Pelvic Inflammatory Disease,"Lower abdominal pain, vaginal discharge, fever, burning with urination, pain with sex, irregular menstruation",Gynecology
+Delirium,"Agitation, confusion, drowsiness, hallucinations, delusions, memory problems","Intensive care medicine, Neurology, Psychiatry, Geriatrics"
+Bronchial Asthma,"Recurring episodes of wheezing, coughing, chest tightness, shortness of breath",Pulmonology
+Migraine,"Headaches, nausea, sensitivity to light, sound, and smell",Neurology
+Hypertension ,None,"Cardiology, Nephrology"
+Hepatitis B,"None, yellowish skin, tiredness, dark urine, abdominal pain","Infectious disease, gastroenterology"
+Common Cold,"Cough, sore throat, runny nose, fever",Infectious disease
+Chicken Pox,"Small, itchy blisters, headache, loss of appetite, tiredness, fever",Infectious disease
+Thoracic Outlet Syndrome,"Pain, weakness, loss of muscle at the base of the thumb, swelling, paleness, bluish coloration","Vascular surgery, thoracic surgery"
+Broken Nose,"Nose bleed, swelling, bruising","Emergency medicine, otorhinolaryngology"
+Pulmonary Hypertension,"Chest pain, fatigue","Pulmonology, cardiology"
+Pancreatitis,Pain in the upper abdomennauseavomitingfeverfatty stool,Gastroenterologygeneral surgery
+Conjoined Twins,Bodies fused,Medical genetics
+Dandruff,Itchy and flaking skin of the scalp,Dermatology
+Barretts Esophagus,Nausea,"Gastroenterology
+General surgery"
+Dysphagia,Inability or difficulty swallowing,"Gastroenterology, phoniatrics"
+Tennis Elbow,Painful and tender outer part of the elbow,"Orthopedics, sports medicine"
+Bad Breath,Unpleasant smell present on breath,"Gastroenterology, otorhinolaryngology, dentistry"
+Gestational Diabetes,Typically few symptoms,Obstetrics and endocrinology
+Schizoid Personality Disorder,"Pervasive emotional detachment, reduced affect, lack of close friends, apathy, anhedonia, unintentional insensitivity to social norms, sexual abstinence, preoccupation with fantasy, autistic thinking without loss of skill to recognize reality","Psychiatry, clinical psychology"
+Neurodermatitis,"Thick leathery skin, exaggerated skin markings, small bumps, patches, scratch marks, scale",Dermatology
+Sarcoidosis,"Depends on the organ involved
+Lungs: wheezing, cough, shortness of breath, chest pain
+Skin: lumps, ulcers, discolored skin
+Children: weight loss, bone pain, feeling tired","Rheumatology, Immunology"
+Cystocele,"Trouble starting urination, incomplete urination, urinary incontinence, frequent urination","Urology, gynecology"
+Osteomyelitis,"Pain in a specific bone, overlying redness, fever, weakness","Infectious disease, orthopedics"
+Cluster Headache,"Recurrent, severe headaches on one side of the head, eye watering, stuffy nose",Neurology
+Schizophrenia,"Hallucinations, delusions, disorganized thinking and behavior, flat or inappropriate affect, associated features include grimacing, mannerism and other oddities of behavior",Psychiatry
+Dysarthria,"Slurred speech, weak execution of oral muscular movements","Neurology, neuropsychology, speech–language pathology"
+Bacterial Vaginosis,"Vaginal discharge that often smells like fish, burning with urination","Gynecology, infectious disease"
+Rheumatic Fever,"Fever, multiple painful joints, involuntary muscle movements, erythema marginatum",Cardiology
+Leukemia,"Bleeding, bruising, fatigue, fever, increased risk of infections",Hematology and oncology
+Hypertension,None,"Cardiology, Nephrology"
+Cyclothymia,Periods of depression and elevated mood,"Psychiatry, clinical psychology"
+Vascular Dementia,"Cognitive impairment, short term memory loss","Psychiatry, neurology"
+Coronary Artery Disease,"Chest pain, shortness of breath","Cardiology, cardiac surgery"
+Diverticulitis,"Abdominal pain, fever, nausea, diarrhea, constipation, blood in the stool",General surgery
+Stevens Johnson Syndrome,"Fever, skin blisters, skin peeling, painful skin, red eyes",Dermatology
+Sprains,"Pain, swelling, bruising, joint instability, limited range of motion of the injured joint","Sports medicine, physical medicine & rehabilitation, orthopedics, family medicine, emergency medicine"
+Polymorphous Light Eruption,"Itchy red small bumps on sun-exposed skin, particularly face, neck, forearms and legs",Dermatology
+Seizure,Variable,"Neurology, emergency medicine"
+Anal Cancer,Anal bleeding or lump,Oncology
+Stuttering,Involuntary sound repetition and disruption or blocking of speech,Speech–language pathology
+Postherpetic Neuralgia,"burning or stabbing pain, pain doesn't end after the shingles subsides.",Neurology
+Hip Dysplasia,"None, hip aches, one leg shorter, limping","Pediatrics, orthopedics"
+Heat Stroke,"High body temperature, red, dry or damp skin, headache, dizziness, confusion, nausea",Emergency medicine
+Premenstrual Syndrome,"Fatigue, irritability and other mood changes, tender breasts, abdominal bloating","Gynecology, psychiatry"
+Costochondritis,Chest pain,"Family medicine, internal medicine, general practitioners, rheumatology, orthopedics"
+Hodgkins Lymphoma,"Fever, night sweats, weight loss, nonpainful enlarged lymph nodes",Hematology and oncology
+Aortic Stenosis,"Decreased ability to exercise, loss of consciousness, shortness of breath, heart related chest pain, leg swelling",Cardiac surgery
+Anorexia Nervosa,"Fear of gaining weight, strong desire to be thin, food restrictions, body image disturbance","Psychiatry, clinical psychology"
+Phenylketonuria,"Without treatment intellectual disability, seizures, behavioral problems, mental disorders, musty odor","Medical genetics, pediatrics, dietetics"
+Ankylosing Spondylitis,"Back pain, joint stiffness",Rheumatology
+Reyes Syndrome,"Vomiting, personality changes, confusion, seizures, loss of consciousness",Pediatrics
+Peritonitis,"Severe pain, swelling of the abdomen, fever","Emergency medicine, general surgery"
+Bone Cancer,"Lump, pain, neurological signs, unexplained broken bone, fatigue, fever, weight loss, anemia and nausea. Sometimes no symptoms",Orthopedics
+Frostbite,"Numbness, feeling cold, clumsiness, pale color","Dermatology, emergency medicine, orthopedics"
+Meningioma,"None, seizures, dementia, trouble talking, vision problems, one sided weakness","Neurosurgery, Neuro-oncology"
+Indigestion,Upper abdominal pain,Gastroenterology
+Dilated Cardiomyopathy,"Feeling tired, leg swelling, shortness of breath, chest pain, fainting",Cardiology
+Creutzfeldt Jakob Disease,"Early: memory problems, behavioral changes, poor coordination, visual disturbances
+Later: dementia, involuntary movements, blindness, weakness, coma",Neurology
+Patent Foramen Ovale,asymptomatic,Cardiac surgery
+Lyme Disease,"Expanding area of redness at the site of a tick bite, fever, headache, tiredness",Infectious disease
+Neurofibromatosis,"Small lumps within the skin, scoliosis, hearing loss, vision loss","Neurosurgery, neurology, Neuro-oncology"
+Flu,"Fever, runny nose, sore throat, muscle pain, headache, coughing, fatigue",Infectious disease
+Obsessive Compulsive Disorder,"Feel the need to check things repeatedly, perform certain routines repeatedly, have certain thoughts repeatedly",Psychiatry
+Gastritis,"Upper abdominal pain, nausea, vomiting, bloating, loss of appetite, heartburn",Gastroenterology
+Allergies,"Red eyes, itchy rash, vomiting, runny nose, shortness of breath, swelling, sneezing, and cough",Immunology
+Gastroparesis,"Nausea, vomiting, abdominal pain, feeling full after eating just a few bites",Gastroenterology
+Strep Throat,"Fever, sore throat, enlarged lymph nodes",Infectious disease
+Benign Prostatic Hyperplasia,"Frequent urination, trouble starting to urinate, weak stream, inability to urinate, loss of bladder control",Urology
+Dupuytrens Contracture,"One or more fingers permanently bent in a flexed position, hard nodule just under the skin of the palm",Rheumatology
+Presbyopia,"Difficulty reading small print, having to hold reading material farther away, headaches, eyestrain","Optometry, ophthalmology"
+Mittelschmerz,"One sided lower abdominal pain, spotting",Gynecology
+Kidney Cancer,"Blood in the urine, lump in the abdomen, back pain",Oncology nephrology Urology
+Cystic Fibrosis,"Difficulty breathing, coughing up mucus, poor growth, fatty stool","Medical genetics, pulmonology"
+Interstitial Cystitis,"Chronic pain of the bladder, feeling the need to urinate right away, needing to urinate often, pain with sex",Urology
+Mastitis,"Localized breast pain and redness, fever",Gynecology
+Kidney Stones,"Severe pain in the lower back or abdomen, blood in the urine, vomiting, nausea","Urology, nephrology"
+Pneumothorax,"Chest pain, shortness of breath, tiredness","Pulmonology, thoracic surgery"
+Hypothermia,"Mild: Shivering, mental confusion
+Moderate: No shivering, increased confusion
+Severe: Paradoxical undressing, muscle rigidity, unconsciousness, cardiac arrest
+Profound: No obvious vital signs",Critical care medicine
+Cirrhosis,"Tiredness, itchiness, swelling in the lower legs, jaundice, easily bruising, fluid build-up in the abdomen","Gastroenterology, Hepatology"
+Pilonidal Cyst,"Pain, swelling, redness, drainage of fluid","General surgery, colorectal surgery"
+Neuroblastoma,"Bone pain, lumps",Neuro-oncology
+Polymyalgia Rheumatica,"Shoulder, neck and hip pain",Rheumatology
+Appendicitis,"Periumbilical or right lower abdominal pain, vomiting, decreased appetite",General surgery
+Lead Poisoning,"Intellectual disability, abdominal pain, constipation, headaches, irritability, memory problems, inability to have children, tingling in the hands and feet",Toxicology
+Intestinal Obstruction,"Abdominal pain, vomiting, bloating, not passing gas",General surgery
+Pityriasis Rosea,"Single red and slightly scaly area, followed","Dermatology, infectious disease"
+Hyponatremia,"Decreased ability to think, headaches, nausea, poor balance, confusion, seizures, coma",Nephrology
+Premature Birth,Birth of a baby at younger than 37 weeks' gestational age,"Neonatology, Pediatrics, Obstetrics"
+Marfan Syndrome,"Tall thin build; long arms, legs and fingers; flexible fingers and toes",Medical genetics
+Pseudomembranous Colitis,"Diarrhea, fever, nausea, abdominal pain",Infectious disease
+Trachoma,"Eye pain, blindness",Infectious disease
+Tinnitus,Hearing sound when no external sound is present,"Otorhinolaryngology, audiology, neurology"
+Rosacea,"Facial redness, swelling, and small and superficial dilated blood vessels",Dermatology
+Cushing Syndrome,"High blood pressure, abdominal obesity with thin arms and legs, reddish stretch marks, round face, often reddened due to facial plethora, fat lump between the shoulders, weak muscles, acne, fragile skin",Endocrinology
+Gonorrhea,"None, burning with urination, vaginal discharge, discharge from the penis, pelvic pain, testicular pain",Infectious disease
+Mumps,"Parotitis and non-specific symptoms such as fever, headache, malaise, muscle pain, and loss of appetite",Infectious disease
+Avascular Necrosis,"Joint pain, decreased ability to move",Orthopedics
+Dizziness,"Feeling of things are spinning or moving when they are not, lightheadedness, giddiness, or unsteadiness","ENT surgery, Otorhinolaryngology; if the dizziness is confirmed to be a symptom of a nervous system disorder, then neurology"
+Transverse Myelitis,Weakness of the limbs,Neurology
+Menorrhagia,bleeding more than usual,Gynecology
+Menieres Disease,"Feeling like the world is spinning, ringing in the ears, hearing loss, fullness in the ear","Otolaryngology, Neurology"
+Croup,"""Barky"" cough, stridor, fever, stuffy nose",Pediatrics
+Hydrocephalus,"Babies: rapid head growth, vomiting, sleepiness, seizures
+Older people: Headaches, double vision, poor balance, urinary incontinence, personality changes, mental impairment",Neurosurgery
+Cholangiocarcinoma,"Abdominal pain, yellowish skin, weight loss, generalized itching, fever",Oncology
+Down Syndrome,"Delayed development, characteristic physical features, mild to moderate intellectual disability","Medical genetics, pediatrics"
+Rett Syndrome,"Impairments in language and coordination, and repetitive movements, slower growth, smaller head","Psychiatry, Clinical Psychology, pediatrics, neurology"
+Athletes Foot,"Itching, scaling, redness of the foot","Dermatology, Infectious disease"
+Calciphylaxis,Painful necrotic skin lesions,Nephrology
+Tourette Syndrome,Tics,"Pediatrics, neurology, psychiatry"
+Polio,"Fever, sore throat","Neurology, infectious disease"
+Whooping Cough,"Runny nose, fever, cough",Infectious disease
+Geographic Tongue,Burning sensation (rare),"Oral Medicine, Oral and Maxillofacial Surgery, Dermatology"
+Typhoid Fever,"Fever that starts low and increases daily, possibly reaching as high as 104.9 °F (40.5 °C) Headache, weakness and fatigue, muscle aches, sweating, dry cough, loss of appetite, weight loss, stomach pain, diarrhea or constipation, rash, swollen stomach (enlarged liver or spleen)",Infectious diseases
+Diabetic Ketoacidosis,"Vomiting, abdominal pain, deep gasping breathing, increased urination, confusion, a specific smell",Endocrinology
+Plantar Fasciitis,Pain in the heel and bottom of the foot,"Orthopedics, sports medicine, plastic surgery, podiatry"
+Muscular Dystrophy,"Increasing weakening, breakdown of skeletal muscles, trouble walking",Neuromuscular medicine
+Sciatica,"Pain going down the leg from the lower back, weakness or numbness of the affected leg","Orthopedics, neurology"
+Vulvar Cancer,"Lump, itchiness, changes in the skin, or bleeding of the vulva",Gynecology
+Fibromyalgia,"Widespread pain, feeling tired, sleep problems","Rheumatology, neurology"
+Esophageal Cancer,"Difficulty swallowing, weight loss, hoarse voice, enlarged lymph nodes around the collarbone, vomiting blood, blood in the stool",Gastroenterology General surgery oncology
+Tonsillitis,"Sore throat, fever, enlargement of the tonsils, trouble swallowing, large lymph nodes around the neck",Infectious disease
+Tay Sachs Disease,"Initially: Decreased ability to turn over, sit, or crawl
+Later: Seizures, hearing loss, inability to move",Medical genetics
+Concussion,"Headache; trouble with thinking, memory, or concentration; nausea; blurry vision; sleep disturbances; mood changes","Emergency medicine, neurology"
+Scarlet Fever,"Sore throat, fever, headaches, swollen lymph nodes in the neck, characteristic rash",Infectious disease
+Mitral Valve Regurgitation,"Heart murmur, shortness of breath during exercise or lying down, fatigue, palpitations, swollen feet or ankles",Cardiology
+Low Blood Pressure,"Dizziness, clumsiness, giddiness, headaches, lightheadedness, fatigue, nausea, blurred vision, shakiness, breathlessness, increased thirst, irregular heartbeat, chest pain, fever, seizures","Critical care medicine, cardiology"
+Brugada Syndrome,"Passing out, sudden cardiac death",Cardiology
+Chronic Kidney Disease,"Early: None
+Later: Leg swelling, feeling tired, vomiting, loss of appetite, confusion",Nephrology
+Prader Willi Syndrome,"Babies: weak muscles, poor feeding, slow development
+Children: constantly hungry, intellectual impairment, behavioural problems","Genetics, endocrinology, pediatrics"
+Liposarcoma,"Lump under skin, pain, swelling, organ dysfunction","Dermatology, general surgery oncology"
+Schizotypal Personality Disorder,"Ideas of reference, unusual beliefs, perceptual Illusions, odd thinking and speech, suspiciousness, inappropriate affect, strange behavior, lack of friends, paranoid social anxiety, dissociation (e.g. derealization, depersonalization, amnesia, fugue, etc.)","Psychiatry, clinical psychology"
+Rickets,"Bowed legs, stunted growth, bone pain, large forehead, trouble sleeping","Pediatrics, rheumatology, dietetics"
+Chickenpox,"Small, itchy blisters, headache, loss of appetite, tiredness, fever",Infectious disease
+Breast Cancer,"A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple, a newly inverted nipple, a red scaly patch of skin on the breast",Oncology
+Meningitis,"Fever, headache, neck stiffness","Infectious disease, neurology"
+Syphilis,"Firm, painless, non-itchy skin ulcer",Infectious disease
+Triple X Syndrome,"Tall stature, skeletal anomalies, minor neurocognitive and behavioural difficulties",Medical genetics
+Huntingtons Disease,"Problems with motor skills, including coordination and gait, mood, and mental abilities",Neurology
+Pulmonary Fibrosis,"Shortness of breath, dry cough, feeling tired, weight loss, nail clubbing",Pulmonology
+Genital Warts,"Small bumps in skin of genital area, varying sizes and shapes but typically protrude out, burning, itch",Infectious disease
+Diarrhea,"Loose frequent bowel movements, dehydration","Infectious disease, gastroenterology"
+Epilepsy,"Periods of loss of consciousness, abnormal shaking, staring, change in vision, mood changes and/or other cognitive disturbances",Neurology
+Tetanus,"fever, cramped-up jaw, muscle spasms, headache, seizures, sweating, and trouble swallowing",Infectious disease
+Sars,"Fever, persistent dry cough, headache, muscle pains, difficulty breathing",Infectious disease
+Eating Disorders,Abnormal eating habits that negatively affect physical or mental health,"Psychiatry, clinical psychology"
+Panic Attacks,"Periods of intense fear, palpitations, sweating, shaking, shortness of breath, numbness",Psychiatry
+Restless Legs Syndrome,Unpleasant feeling in the legs that briefly improves with moving them,Sleep medicine
+Gangrene,"Change in skin color to red or black, numbness, pain, skin breakdown, coolness","Infectious disease, surgery, podiatry"
+Guillain Barre Syndrome,"Muscle weakness beginning in the feet and hands, usually ascending",Neurology
+Ovarian Cysts,"None, bloating, lower abdominal pain, lower back pain",Gynecology
+Chagas Disease,"Fever, large lymph nodes, headache",Infectious disease
+Vasculitis,"Weight loss, fever, myalgia, purpura","Rheumatology, Immunology"
+Achilles Tendinitis,"Pain, swelling around the affected tendon",Rheumatology
+Trichinosis,"Initially: diarrhea, abdominal pain, vomiting
+Later: swelling of the face, inflammation of the whites of the eyes, fever, muscle pains, rash",Infectious disease
+Farsightedness,"Near blur, Distance and near blur, Asthenopia","Ophthalmology, optometry"
+Norovirus,"Diarrhea, vomiting, stomach pain, headache","Emergency medicine, pediatrics"
+Rheumatoid Arthritis,"Warm, swollen, painful joints","Rheumatology, Immunology"
+Hemophilia,Easy and prolonged bleeding,Haematology
+Keratoconus,"Blurry vision, nearsightedness, light sensitivity","Ophthalmology, optometry"
+Priapism,Penis remains erect for hours,"Urology, emergency medicine"
+Dermatomyositis,"Rash, muscle weakness, weight loss, fever",Rheumatology
+Dyslexia,Trouble reading,"Neurology, pediatrics"
+Hemolytic Uremic Syndrome,"Early: Bloody diarrhea, vomiting, fever Later: Low platelets, low red blood cells, kidney failure","Pediatrics, nephrology"
+Achalasia,"Anorexia (but willing and trying to eat), inability to swallow food, chest pain comparable to heart attack, lightheadedness, dehydration, excessive vomiting after eating (often without nausea).","Gastroenterology, thoracic surgery, general surgery, laparoscopic surgery"
+Shin Splints,Pain along the inside edge of the shinbone,Sports medicine
+Deep Vein Thrombosis,"Pain, swelling, redness, enlarged veins in the affected limb",Various
+Acromegaly,"Enlargement of the hands, feet, forehead, jaw, and nose, thicker skin, deepening of the voice",Endocrinology
+Pcos,"Irregular menstrual periods, heavy periods, excess hair, acne, pelvic pain, difficulty getting pregnant, patches of thick, darker, velvety skin","Gynecology, endocrinology"
+Lung Cancer,"Coughing (including coughing up blood), shortness of breath, chest pain","Oncology, pulmonology"
+Vertigo,"Feeling of spinning or swaying, vomiting, difficulty walking",Otorhinolaryngology
+Dyshidrosis,"Itchy blisters on the palms of the hands, sides of fingers, or bottoms of the feet",Dermatology
+Cholera,"Large amounts of watery diarrhea, vomiting, muscle cramps",Infectious disease
+Melanoma,"Mole that is increasing in size, has irregular edges, change in color, itchiness, or skin breakdown.",Oncology and dermatology
+Mononucleosis,"Fever, sore throat, enlarged lymph nodes in the neck, fatigue",Infectious disease
+Acoustic Neuroma,"Gradual hearing loss, dizziness, tinnitus",Neuro-oncology
+Persistent Depressive Disorder,"Low mood, low self-esteem, loss of interest in normally enjoyable activities, low energy, pain without a clear cause","Psychiatry, clinical psychology"
+Myelodysplastic Syndrome,"None, feeling tired, shortness of breath, easy bleeding, frequent infections","Hematology, oncology"
+Ehlers Danlos Syndrome,"Overly flexible joints, stretchy skin, abnormal scar formation",Medical genetics
+Jock Itch,"Itch, rash in groin",Dermatology
+Mitral Valve Prolapse,"Palpitations, atypical precordial pain, dyspnea on exertion, low BMI, electrocardiogram abnormalities (ventricular tachycardia), syncope, low blood pressure, headaches, lightheadedness, other signs suggestive of autonomic nervous system dysfunction (dysautonomia)",Cardiology
+Gout,"Joint pain, swelling, and redness",Rheumatology
+Epididymitis,"Pain in the back of the testicle, swelling of the testicle, burning with urination, frequent urination","Urology, infectious disease"
+Celiac Disease,"None or non-specific, abdominal distention, diarrhoea, constipation, malabsorption, weight loss, dermatitis herpetiformis","Gastroenterology, internal medicine"
+Travelers Diarrhea,"Unformed stool while traveling, fever, abdominal cramps, headache",Infectious diseases
+Menopause,No menstrual periods for a year,Gynecology
+Serotonin Syndrome,"High body temperature, agitation, increased reflexes, tremor, sweating, dilated pupils, diarrhea","Critical care medicine, psychiatry"
+Leukoplakia,"Firmly attached white patch on a mucous membrane, changes with time","Oral and maxillofacial surgery, Oral medicine, Dentistry"
+Preeclampsia,"High blood pressure, protein in the urine",Obstetrics
+Pericarditis,"Sharp chest pain, better sitting up and worse with lying down, fever",Cardiology
+Egg Allergy,"itchiness, rash, swelling of lips, tongue or the whole face, eczema, wheezing and shortness of breath, nausea, vomiting, abdominal pain, diarrhea, anaphylaxis","Emergency medicine
+Allergy & immunology"
+Retinoblastoma,"Leukocoria seen in patient's pupil in photos
+Poor vision
+One or both eyes turning inward or outward
+Eye pain",Neuro-oncology
+Diphtheria,"Sore throat, fever, barking cough",Infectious disease
+Myasthenia Gravis,"Varying degrees muscle weakness, double vision, drooping eyelids, trouble talking, trouble walking",Neurology
+Inguinal Hernia,"Pain, bulging in the groin",General surgery
+Vitiligo,Patches of white skin,Dermatology Immunology
+Turner Syndrome,"Webbed neck, short stature, heart defects","Pediatrics, medical genetics"
+Ovarian Cancer,"Early: vague
+Later: bloating, pelvic pain, constipation, abdominal swelling, loss of appetite","Oncology, gynecology"
+Hyperparathyroidism,"None, kidney stones, weakness, depression, bone pains, confusion, increased urination",Endocrinology
+Tendinitis,"Pain, swelling",Primary care
+Thalassemia,"Feeling tired, pale skin, enlarged spleen, yellowish skin, dark urine",Hematology
+Vasovagal Syncope,"Loss of consciousness before which there may be sweating, decreased ability to see, ringing in the ears","Neurology, cardiovascular"
+Scoliosis,Sideways curve in the back,Orthopedic surgery
+Amyotrophic Lateral Sclerosis,"Early: Stiff muscles, muscle twitches, gradual increasing weakness
+Later: Difficulty in speaking, swallowing, and breathing; respiratory failure; 10–15% experience frontotemporal dementia",Neurology
+Bipolar Disorder,Periods of depression and elevated mood,"Psychiatry, clinical psychology"
+Chronic Fatigue Syndrome,"Worsening of symptoms with activity, long-term fatigue, sleep problems, others","Rheumatology, rehabilitation medicine, endocrinology, infectious disease, neurology, immunology, general practice, paediatrics, other specialists in ME/CFS"
+Narcolepsy,"Excessive daytime sleepiness, involuntary sleep episodes, sudden loss of muscle strength, hallucinations","Sleep medicine, neurology"
+Pulmonary Edema,"Progressive dyspnea, cough, fever, cyanosis, tachycardia","Cardiology, critical care medicine pulmonology"
+Peripheral Neuropathy,"Shooting pain, numbness, tingling, tremors, bladder problems, unsteadiness",Neurology
+Bronchitis,"Coughing up mucus, wheezing, shortness of breath, chest discomfort","Infectious disease, pulmonology"
+Mild Cognitive Impairment,"Can include memory impairments (amnestic) or cognitive problems like impaired decision making, language, or visuospatial skills (non-amnestic)",Neurology
+Patellofemoral Pain Syndrome,Pain in the front of the knee,"Orthopedics, sports medicine"
+Ganglion Cyst,Small soft bump associated with a joint or tendon sheath,"Plastic surgery, orthopedic surgery, hand surgery"
+Agoraphobia,"Anxiety in situations perceived to be unsafe, panic attacks","Psychiatry, clinical psychology"
+Encephalitis,"Headache, fever, confusion, stiff neck, vomiting","Neurology, infectious disease"
+Chlamydia,"None, vaginal discharge, discharge from the penis, burning with urination","Infectious disease, gynecology, urology"
+Scabies,"itchiness, pimple-like rash","Infectious disease, dermatology"
+Bee Stings,"Pain, itching, swelling",Emergency medicine
+Blepharitis,crusty eyelids,"Ophthalmology, Optometry"
+Gallstones,"None, crampy pain in the right upper abdomen","Gastroenterology
+General surgery"
+Sepsis,Feverincreased heart ratelow blood pressureincreased breathing ratelow urine outputabsent or near absent urine outputsevere painconfusion,Infectious disease
+Angelman Syndrome,"Delayed development, unusually happy, intellectual disability, limited to no functional speech, balance and movement problems, small head, seizures",Medical genetics
+Toxic Shock Syndrome,"Fever, rash, skin peeling, low blood pressure",Infectious disease
+Trichotillomania,"Visible hair loss, distress","Dermatology, psychiatry"
+Klinefelter Syndrome,"Varied; include above average height, weaker muscles, poor coordination, less body hair, breast growth, small testicle size, less interest in sex, infertility",Medical genetics
+Chronic Lymphocytic Leukemia,"Early: None
+Later: Non-painful lymph nodes swelling, feeling tired, fever, weight loss",Hematology and oncology
+Alcohol Use Disorder,"Drinking large amounts of alcohol over a long period, difficulty cutting down, acquiring and drinking alcohol taking up a lot of time, usage resulting in problems, withdrawal occurring when stopping","Psychiatry, clinical psychology, toxicology, addiction medicine"
+Angiosarcoma,"Often asymptomatic, non-specific symptoms common",Oncology
+Asthma,"Recurring episodes of wheezing, coughing, chest tightness, shortness of breath",Pulmonology
+Pinworm,Itchy anal area,Infectious disease
+Anaphylaxis,"Itchy rash, throat swelling, numbness, shortness of breath, lightheadedness, low blood pressure",Allergy and immunology
+Legionnaires Disease,"Cough, shortness of breath, fever, muscle pains, headaches","Infectious disease, pulmonology"
+Endometriosis,"Pelvic pain, infertility",Gynecology
+Fever,"Initially: shivering, feeling cold, chills
+Later: flushed, sweating","Infectious disease, pediatrics"
+Botulism,"Weakness, trouble seeing, feeling tired, trouble speaking","Infectious disease, gastroenterology"
+Achilles Tendon Rupture,Pain in the heel,"Orthopedics, emergency medicine"
+Ventricular Fibrillation,Cardiac arrest with loss of consciousness and no pulse,"Cardiology, Emergency Medicine"
+Pseudotumor Cerebri,"Headache, vision problems, ringing in the ears with the heartbeat",Neurology
+Adhd,Inattentioncarelessnesshyperactivityexecutive dysfunctiondisinhibitionemotional dysregulationimpulsivityimpaired working memory,Psychiatrypediatrics
+Brain Tumor,"Vary depending on the part of the brain involved, headaches, seizures, problem with vision, vomiting, mental changes","Neurosurgery, Neuro-oncology"
+Nearsightedness,"Distant objects appear blurry, close objects appear normal, headaches, eye strain","Ophthalmology, optometry"
+Chronic Traumatic Encephalopathy,"Behavioral problems, mood problems, problems with thinking","Neurology, psychiatry, sports medicine"
+Metabolic Syndrome,Obesity,Endocrinology
+Cardiomyopathy,"Shortness of breath
+Feeling tired
+Swelling of the legs",Cardiology
+Ulcerative Colitis,"Abdominal pain, diarrhea mixed with blood, weight loss, fever, anemia, dehydration, loss of appetite, fatigue, sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",Gastroenterology
+Bladder Cancer,"Blood in the urine, pain with urination","Oncology, urology"
+Trigger Finger,"Catching or locking of the involved finger, pain","Hand surgery, orthopedic surgery, and plastic surgery"
+Social Anxiety Disorder,"Social isolation
+Hypervigilance",Psychiatry
+Pulmonary Embolism,"Shortness of breath, chest pain, coughing up blood","Hematology, cardiology, pulmonology"
+Polycystic Kidney Disease,Abdominal pain,Nephrology
+Peptic Ulcer,"Heartburn, upper abdominal pain, nausea, belching, vomiting, blood in the stool, weight loss, weight gain, bloating, loss of appetite, yellowing of the skin and whites of the eyes, difficulty swallowing","Gastroenterology
+General surgery"
+Copd,"Shortness of breath, chronic cough",Pulmonology
+Sickle Cell Anemia,"Attacks of pain, anemia, swelling in the hands and feet, bacterial infections, stroke","Hematology, medical genetics"
+Rubella,"Rash, swollen lymph nodes, fever, sore throat, feeling tired",Infectious disease
+Progressive Supranuclear Palsy,"Impaired balance, slowed movements, difficulty moving eyes, dementia",Neurology
+High Blood Pressure,None,"Cardiology, Nephrology"
+Myocarditis,"Shortness of breath, chest pain, decreased ability to exercise, irregular heartbeat","Infectious disease, cardiology"
+Canker Sore,"A round, often painful sore inside the mouth that is white or gray with a red border;
+Tingling or burning sensation prior to sore development;
+Fever, sluggishness, and/or swollen lymph nodes (severe cases only)","Oral medicine, dermatology"
+Dehydration,"Increased thirst, tiredness, decreased urine, dizziness, headaches, and confusion",Critical care medicine
+Ehrlichiosis,"Fever, chills, severe headaches, muscle aches, nausea, vomiting, diarrhea, loss of appetite, confusion, and splotchy or pinpoint rash. More severe symptoms include brain or nervous system damage, respiratory failure, uncontrollable bleeding, organ failure, and death.",Infectious diseases
+Pulmonary Atresia,Cyanosis,Cardiology
+Cholecystitis,"Intense right upper abdominal pain, nausea, vomiting, fever","General surgery, gastroenterology"
+Hemorrhoids,"Internal: Painless, bright red rectal bleeding
+External: Pain and swelling around the anus",General surgery
+Heart Disease,"Chest pain, shortness of breath, fatigue, loss of consciousness",Cardiology
+Abdominal Aortic Aneurysm,"None, abdominal, back, or leg pain",Vascular surgery
+Subconjunctival Hemorrhage,"Red spot over whites of the eye, little to no pain","Ophthalmology, Optometry"
+Spina Bifida,"Hairy patch, dimple, dark spot, swelling on the lower back","Pediatrics, neurosurgery, rehabilitation medicine"
+Cystitis,"Pain with urination, frequent urination, feeling the need to urinate despite having an empty bladder","Infectious disease, Urology"
+Throat Cancer,"Lump or sore that does not heal, sore throat that does not go away, trouble swallowing, change in voice","Oncology, oral and maxillofacial surgery"
+Insomnia,"Trouble sleeping, daytime sleepiness, low energy, irritability, depressed mood","Psychiatry, sleep medicine"
+Vaginitis,"Itching, burning, pain, discharge, bad smell",Gynecology
+Lupus Nephritis,Joint pain or swelling,Nephrology
+Cerebral Palsy,"Poor coordination
+Stiff or loose muscles
+Weak muscles
+Tremors","Pediatrics
+Neurology
+Physiatry"
+Ectopic Pregnancy,"Abdominal pain, vaginal bleeding",Obstetrics and Gynaecology
+Hypoparathyroidism,hypocalcemia,Endocrinology
+Postpartum Depression,"Extreme sadness, low energy, anxiety, changes in sleeping or eating patterns, crying episodes, irritability",Psychiatry
+Erectile Dysfunction,Inability to gain or maintain an erection,"Urology, sexual medicine, andrology"
+Rabies,"Fever, extreme aversion to water, confusion, excessive salivary secretion, hallucinations, disrupted sleep, paralysis, coma, hyperactivity, headache, nausea, vomiting, anxiety",Infectious disease
+Perimenopause,No menstrual periods for a year,Gynecology
+Nonalcoholic Fatty Liver Disease,"Asymptomatic in the early stages
+In later stages:
+* Deposits of cholesterol on the eye lids
+* Fatigue
+* Crusty red nodules
+* Digestive issues
+Lastly causes liver disease and eventually liver failure",Hepatology
+Sudden Cardiac Arrest,"Decreased level or total loss of consciousness, abnormal or no breathing, no pulse","Cardiology, emergency medicine"
+Patent Ductus Arteriosus,"Shortness of breath, failure to thrive, tachycardia, heart murmur","Cardiac surgery, paediatrics"
+Laryngitis,"Hoarse voice, fever, pain",Otorhinolaryngology
+Ataxia,"Lack of coordination
+Slurred speech
+Trouble eating and swallowing
+Deterioration of fine motor skills
+Difficulty walking
+Gait abnormalities
+Eye movement abnormalities
+Tremors
+Heart problems","Neurology, Psychiatry"
+Aortic Dissection,"severe chest or back pain, vomiting, sweating, lightheadedness","Vascular surgery, cardiothoracic surgery"
+Common Variable Immunodeficiency,"Hypogammaglobulinemia, recurrent opportunistic infections, fatigue",Immunology
+Emphysema,"Shortness of breath, chronic cough",Pulmonology
+Genital Herpes,"None, small blisters that break open to form painful ulcers, flu-like symptoms",Infectious disease
+Measles,"Fever, cough, runny nose, inflamed eyes, rash",Infectious disease
+Ureteral Cancer,Blood in the urine,"Oncology
+Urology"
+Osteoarthritis,"Joint pain, stiffness, joint swelling, decreased range of motion","Rheumatology, orthopedics"
+Cold Sore,Burning pain followed by small blisters or sores,Infectious disease
+Graves Disease,"Enlarged thyroid, irritability, muscle weakness, sleeping problems, fast heartbeat, weight loss, poor tolerance of heat, anxiety, tremor of hands or fingers, warm and moist skin, increased perspiration, goiter, changes in menstrual cycle, easy bruising, erectile dysfunction, reduced libido, frequent bowel movements, bulging eyes (Graves' ophthalmopathy), thick red skin on shins or the top of foot (pretibial myxedema)",Endocrinology
+Cataracts,"Faded colors, blurry vision, halos around light, trouble with bright lights, trouble seeing at night","Ophthalmology, Optometry"
+Sprained Ankle,"Swelling, bruising, pain","Orthopedics, sports medicine, Physical medicine and rehabilitation, Family medicine"
+Prostate Cancer,"Typically none. Sometimes trouble urinating, erectile dysfunction, or pain in the back/pelvis.","Oncology, urology"
+Food Allergy,"Itchiness, swelling of the tongue, vomiting, diarrhea, hives, trouble breathing, low blood pressure","Emergency medicine, allergy and immunology"
+Bunions,"Prominent, red, and painful joint at the base of the big toe","Orthopedics, podiatry"
+Hiatal Hernia,"Taste of acid in the back of the mouth, heartburn, trouble swallowing","Gastroenterology, general surgery"
+Hypercalcemia,"Abdominal pain, bone pain, confusion, depression, weakness",Endocrinology
+Dislocated Shoulder,Shoulder pain,"Emergency medicine, orthopedics"
+Toxic Epidermal Necrolysis,"Fever, skin blisters, skin peeling, painful skin, red eyes",Dermatology
+Dengue Fever,"Fever, headache, muscle and joint pain, rash. Can be severe, mild or asymptomatic",Infectious disease
+Kawasaki Disease,"Fever > 5 days, large lymph nodes, rash, sore throat, diarrhea","Pediatrics, Rheumatology, Immunology"
+Autism Spectrum Disorder,"Difficulties in social interaction, verbal and nonverbal communication, and the presence of repetitive behavior or restricted interests","Psychiatry, clinical psychology, pediatrics, occupational medicine"
+Lactose Intolerance,"Abdominal pain, bloating, diarrhea, flatulence, nausea",Gastroenterology
+Heartburn,"Burning, stabbing, or squeezing sensation in the chest, nausea, belching","Gastroenterology, family medicine, emergency medicine"
+Gallbladder Cancer,"Abdominal pain, Bloating, Fever, Unexplained weight loss, Nausea, Yellowing of the skin, although some people may have no symptoms",Gastroenterology Hepatology Oncology
+Addisons Disease,"Abdominal pain, weakness, weight loss, darkening of the skin",Endocrinology
+Trichomoniasis,"Itching in the genital area, bad smelling thin vaginal discharge, burning with urination, pain with sex",Gynecology Microbiology Infectious diseases
+Hearing Loss,Decreased ability to hear,"Otorhinolaryngology, audiology"
+Traumatic Brain Injury,"Physical, cognitive, sensory, social, emotional, and behavioral symptoms","Neurosurgery, pediatrics"
+Hypertrophic Cardiomyopathy,"Feeling tired, leg swelling, shortness of breath, chest pain, fainting",Cardiology
+Hidradenitis Suppurativa,Multiple inflamed and swollen skin lesions,Dermatology
+Generalized Anxiety Disorder,"Excessive worry, restlessness, trouble sleeping, feeling tired, irritability, difficulty concentrating, muscle tension, sweating, trembling","Psychiatry, psychology"
+Hay Fever,"Stuffy itchy nose, sneezing, red, itchy, and watery eyes, swelling around the eyes, itchy ears",Allergy and immunology
+Transient Global Amnesia,Memory impairment,Neurology
+Ascariasis,"Abdominal swelling, abdominal pain, diarrhea, shortness of breath",Infectious disease
+Type 1 Diabetes,"Frequent urination, increased thirst, weight loss",Endocrinology
+Lipoma,"Soft, movable, usually painless lump","Dermatology, general surgery oncology"
+Shingles,Painful rash,Dermatology
+Binge Eating Disorder,"Eating much faster than normal, eating until feeling uncomfortably full, eating a large amount when not hungry","Psychiatry, Clinical Psychology"
+Amyloidosis,"Feeling tired, weight loss, swelling of the legs, shortness of breath, bleeding, feeling light headed with standing",Internal Medicine
+Basal Cell Carcinoma,Painless raised area of skin that may be shiny with small blood vessel running over it or ulceration,"Dermatology, oncology"
+Mesothelioma,"Shortness of breath, swollen abdomen, chest wall pain, cough, feeling tired, weight loss",Oncology
+Yeast Infection,"White patches or vaginal discharge, itching",Infectious disease
+Heart Failure,"Shortness of breath, exhaustion, swollen legs",Cardiology
+Stomach Cancer,"Early:
+Heartburnbloatingupper abdominal painnauseabelchingloss of appetite
+Later:
+Weight lossyellowing of the skin and whites of the eyesvomiting blooddifficulty swallowingblood in the stool",Gastroenterology Oncology
+Placental Abruption,"Vaginal bleeding, low abdominal pain, dangerously low blood pressure",Obstetrics
+Trigeminal Neuralgia,"Typical: episodes of severe, sudden, shock-like pain in one side of the face that lasts for seconds to minutes
+Atypical: constant burning pain",Neurology
+Bronchiolitis,"Fever, cough, runny nose, wheezing, breathing problems","Emergency medicine, pediatrics"
+Skin Cancer,"Basal-cell: painless raised area of skin that may be shiny with small blood vessel running over it or ulceration
+Squamous-cell: hard lump with a scaly top
+Melanoma: mole that has changed in size, shape, color, or has irregular edges",Oncology and dermatology
+hypertensive disease,None,"Cardiology, Nephrology"
+diabetes,"Frequent urination
+Increased thirst
+Increased hunger",Endocrinology
+coronary heart disease,"Chest pain, shortness of breath","Cardiology, cardiac surgery"
+pneumonia,"Cough, shortness of breath, chest pain, fever","Pulmonology, infectious disease"
+asthma,"Recurring episodes of wheezing, coughing, chest tightness, shortness of breath",Pulmonology
+myocardial infarction,"Chest pain, shortness of breath, nausea/vomiting, dizziness or lightheadedness, cold sweat, feeling tired; arm, neck, back, jaw, or stomach pain, decreased level or total loss of consciousness","Cardiology, emergency medicine"
+chronic obstructive airway disease,"Shortness of breath, chronic cough",Pulmonology
+hypothyroidism,"extreme fatigue, Poor ability to tolerate cold, feeling tired, muscle aches, constipation, weight gain, depression, anxiety, irritability",Endocrinology
+anxiety state,"Worrying, fast heart rate, shakiness","Psychiatry, clinical psychology"
+gastroesophageal reflux disease,"Taste of acid, heartburn, bad breath, chest pain, breathing problems",Gastroenterology
+deep vein thrombosis,"Pain, swelling, redness, enlarged veins in the affected limb",Various
+dehydration,"Increased thirst, tiredness, decreased urine, dizziness, headaches, and confusion",Critical care medicine
+neoplasm,Lump,Oncology
+epilepsy,"Periods of loss of consciousness, abnormal shaking, staring, change in vision, mood changes and/or other cognitive disturbances",Neurology
+cardiomyopathy,"Shortness of breath
+Feeling tired
+Swelling of the legs",Cardiology
+chronic kidney failure,"Early: None
+Later: Leg swelling, feeling tired, vomiting, loss of appetite, confusion",Nephrology
+peripheral vascular disease,"Leg pain when walking that resolves with rest, skin ulcers, bluish skin, cold skin","Interventional radiology, vascular surgery"
+bipolar disorder,Periods of depression and elevated mood,"Psychiatry, clinical psychology"
+cirrhosis,"Tiredness, itchiness, swelling in the lower legs, jaundice, easily bruising, fluid build-up in the abdomen","Gastroenterology, Hepatology"
+benign prostatic hypertrophy,"Frequent urination, trouble starting to urinate, weak stream, inability to urinate, loss of bladder control",Urology
+mitral valve insufficiency,"Heart murmur, shortness of breath during exercise or lying down, fatigue, palpitations, swollen feet or ankles",Cardiology
+arthritis,"Joint pain, stiffness, redness, swelling, decreased range of motion",Rheumatology
+bronchitis,"Coughing up mucus, wheezing, shortness of breath, chest discomfort","Infectious disease, pulmonology"
+hemiparesis,Loss of motor skills on one side of body,Neurology
+paranoia,"Distrust, false accusations, anxiety, suspicion","Psychiatry, clinical psychology"
+pancreatitis,Pain in the upper abdomennauseavomitingfeverfatty stool,Gastroenterologygeneral surgery
+hernia,"Pain especially with coughing, bulging area",General surgery
+schizophrenia,"Hallucinations, delusions, disorganized thinking and behavior, flat or inappropriate affect, associated features include grimacing, mannerism and other oddities of behavior",Psychiatry
+diverticulitis,"Abdominal pain, fever, nausea, diarrhea, constipation, blood in the stool",General surgery
+osteomyelitis,"Pain in a specific bone, overlying redness, fever, weakness","Infectious disease, orthopedics"
+gastritis,"Upper abdominal pain, nausea, vomiting, bloating, loss of appetite, heartburn",Gastroenterology
+sickle cell anemia,"Attacks of pain, anemia, swelling in the hands and feet, bacterial infections, stroke","Hematology, medical genetics"
+hepatitis,"Yellowish skin, poor appetite, abdominal pain","Infectious disease, gastroenterology, hepatology"
+gout,"Joint pain, swelling, and redness",Rheumatology
+hypoglycemia,"Headache, blurred vision, shakiness, dizziness, weakness, tiredness, sweating, clamminess, fast heart rate, pounding heartbeat, nervousness or anxiety, hunger, nausea, pins and needles sensation, difficulty talking, confusion, unusual behavior, lightheadedness, pale skin color, seizures",Endocrinology
+hepatitis B,"None, yellowish skin, tiredness, dark urine, abdominal pain","Infectious disease, gastroenterology"
+tricuspid valve insufficiency,Ascites,Cardiology
+neuropathy,"Shooting pain, numbness, tingling, tremors, bladder problems, unsteadiness",Neurology
+respiratory failure,"Shortness of breath, cyanosis, tachycardia, tachypnea, arrhythmia, headache, hypertension","Pulmonology, Intensive care medicine"
+melanoma,"Mole that is increasing in size, has irregular edges, change in color, itchiness, or skin breakdown.",Oncology and dermatology
+gastroenteritis,"Diarrhea, vomiting, abdominal pain, fever","Infectious disease, gastroenterology"
+hemorrhoids,"Internal: Painless, bright red rectal bleeding
+External: Pain and swelling around the anus",General surgery
+pyelonephritis,"Fever, flank tenderness, nausea, burning with urination, frequent urination","Infectious disease, urology, nephrology"
+pneumothorax,"Chest pain, shortness of breath, tiredness","Pulmonology, thoracic surgery"
+delirium,"Agitation, confusion, drowsiness, hallucinations, delusions, memory problems","Intensive care medicine, Neurology, Psychiatry, Geriatrics"
+influenza,"Fever, runny nose, sore throat, muscle pain, headache, coughing, fatigue",Infectious disease
+thrombus,"abrupt change in mental status, chest pain, cramp-like feeling, fatigue, passing out (syncope), and swelling in the arm and/or leg",Vascular surgery
+cholecystitis,"Intense right upper abdominal pain, nausea, vomiting, fever","General surgery, gastroenterology"
+migraine disorders,"Headaches, nausea, sensitivity to light, sound, and smell",Neurology
+biliary calculus,"None, crampy pain in the right upper abdomen","Gastroenterology
+General surgery"
+Achondroplasia,"Short arms and legs, enlarged head, prominent forehead",Medical genetics
+Age-Related Macular Degeneration,Blurred or no vision in the center of the visual field,"Ophthalmology, optometry"
+Algodystrophy,"Pain, allodynia, hypo- or hyperesthesia, skin temperature abnormalities, atrophy, stiffness","Neurology, psychiatry, anesthesiology"
+Algoneurodystrophy,"Pain, allodynia, hypo- or hyperesthesia, skin temperature abnormalities, atrophy, stiffness","Neurology, psychiatry, anesthesiology"
+Alpha-1-Antitrypsin Deficiency,"Shortness of breath, wheezing, yellowish skin","Pulmonology, Hepatology, Medical genetics"
+ARDS,"Shortness of breath, rapid breathing, bluish skin coloration, chest pain, loss of speech",Critical care medicine
+Argininemia,"Lethargy, Dehydration","Neurology, medical genetics, endocrinology"
+Arrhythmia,"Palpitations, dizziness or lightheadedness, passing out, shortness of breath, chest pain, decreased level of consciousness",Cardiology
+Autism,"Difficulties in social interaction, verbal and nonverbal communication, and the presence of repetitive behavior or restricted interests","Psychiatry, clinical psychology, pediatrics, occupational medicine"
+Babesiosis,"fever, chills, headache, fatigue",Infectious disease
+Bacterial Meningitis,"Fever, headache, neck stiffness","Infectious disease, neurology"
+Baldness,Loss of hair from part of the head or body.,Dermatology
+Bowen's Disease,Hard lump with a scaly top or ulceration.,"Dermatology, plastic surgery, otorhinolaryngology"
+Brain Cancer,"Vary depending on the part of the brain involved, headaches, seizures, problem with vision, vomiting, mental changes","Neurosurgery, Neuro-oncology"
+Brittle Bone Disease,"Bones that break easily, blue tinge to the sclera (whites of the eye), short height, joint hypermobility, hearing loss","Pediatrics, medical genetics, orthopedics"
+Campylobacteriosis,"Diarrhea, abdominal pain, fever",Infectious disease
+Carbon Monoxide Poisoning,"Headache, dizziness, weakness, vomiting, chest pain, confusion","Toxicology, emergency medicine"
+Catatonia,"Immobility, mutism, staring, posturing, rigidity, low consciousness, etc.","Psychiatry, neurology"
+Chalazia,"Red, non painful cyst in middle of the eyelid","Ophthalmology, optometry"
+Chalazion,"Red, non painful cyst in middle of the eyelid","Ophthalmology, optometry"
+Charcot-Marie-Tooth Disease,"Foot drop, hammertoe, peripheral muscle wasting of lower legs and lower arm/hands","Neurology, podiatry, orthopedics, physical medicine and rehabilitation"
+Childhood ADHD,Inattentioncarelessnesshyperactivityexecutive dysfunctiondisinhibitionemotional dysregulationimpulsivityimpaired working memory,Psychiatrypediatrics
+Clostridium Difficile Colitis,"Diarrhea, fever, nausea, abdominal pain",Infectious disease
+Cluster Headaches,"Recurrent, severe headaches on one side of the head, eye watering, stuffy nose",Neurology
+Cold Sores,Burning pain followed by small blisters or sores,Infectious disease
+COPD,"Shortness of breath, chronic cough",Pulmonology
+Cushing's Syndrome,"High blood pressure, abdominal obesity with thin arms and legs, reddish stretch marks, round face, often reddened due to facial plethora, fat lump between the shoulders, weak muscles, acne, fragile skin",Endocrinology
+Dandy Fever,"Fever, headache, muscle and joint pain, rash. Can be severe, mild or asymptomatic",Infectious disease
+Diabetic Macular Edema,"Often asymptomatic, but can cause spots in the eye and vision loss.","Ophthalmology, optometry"
+Duodenal Ulcer,"Heartburn, upper abdominal pain, nausea, belching, vomiting, blood in the stool, weight loss, weight gain, bloating, loss of appetite, yellowing of the skin and whites of the eyes, difficulty swallowing","Gastroenterology
+General surgery"
+Ebola,"Fever, sore throat, muscular pain, headaches, diarrhoea, bleeding",Infectious disease
+Eczema,"Itchiness, red skin, rash",Dermatology
+EDMD,"Joint contractures, muscle weakness, heart issues","Neurology, neuromuscular medicine"
+Edward's Syndrome,"Small head, small jaw, clenched fists with overlapping fingers, profound intellectual disability","Medical genetics, pediatrics"
+Elephantiasis,Swelling of the skin,"Infectious disease, general surgery"
+Empty Sella Syndrome,Cryptorchidism,Endocrinology
+Endometrial Cancer,"Vaginal bleeding, pain with urination or sexual intercourse, pelvic pain","Oncology, gynecology"
+Epidemic Cholera,"Large amounts of watery diarrhea, vomiting, muscle cramps",Infectious disease
+Facioscapulohumeral Muscular Dystrophy,"Facial weakness, scapular winging, foot drop","Neurology, neuromuscular medicine"
+Factitious Disorder by Proxy,Variable,Psychiatry
+Fainting,Loss of consciousness and muscle strength,"Neurology, cardiology"
+Fallot's Tetralogy,"Episodes of bluish color to the skin, difficulty breathing, heart murmur, finger clubbing","Cardiac surgery, pediatrics"
+Familial Jaundice,"Usually none, still, abdominal pain, nausea, tired and weak feeling, slight jaundice may present",Gastroenterology
+Fifth Disease,"Red rash, especially on cheeks and harsh coughs",Infectious disease
+Fragile X Syndrome,"Intellectual disability, long and narrow face, large ears, flexible fingers, large testicles","Medical genetics, pediatrics, psychiatry"
+Gastric Ulcer,"Heartburn, upper abdominal pain, nausea, belching, vomiting, blood in the stool, weight loss, weight gain, bloating, loss of appetite, yellowing of the skin and whites of the eyes, difficulty swallowing","Gastroenterology
+General surgery"
+Gastroschisis,Intestines extend outside of the body through a hole next to the belly button,"General surgery, medical genetics"
+Giardiasis,"Diarrhea, abdominal pain, weight loss, nausea","Infectious disease, gastroenterology"
+Glioblastoma Multiforme,"Initially nonspecific, headaches, personality changes, nausea, symptoms similar to a stroke","Neuro-oncology, neurosurgery"
+Grave's Disease,"Enlarged thyroid, irritability, muscle weakness, sleeping problems, fast heartbeat, weight loss, poor tolerance of heat, anxiety, tremor of hands or fingers, warm and moist skin, increased perspiration, goiter, changes in menstrual cycle, easy bruising, erectile dysfunction, reduced libido, frequent bowel movements, bulging eyes (Graves' ophthalmopathy), thick red skin on shins or the top of foot (pretibial myxedema)",Endocrinology
+Guillain-Barre Syndrome,"Muscle weakness beginning in the feet and hands, usually ascending",Neurology
+Hashimoto's Thyroiditis,"Painless goiter, weight gain, feeling tired, constipation, depression, dry skin, hair loss",Endocrinology
+Hemophilia A,Prolonged bleeding from common injuries,Haematology
+Hemophilia B,Easy bruising,Haematology
+Hepatitis,"Yellowish skin, poor appetite, abdominal pain","Infectious disease, gastroenterology, hepatology"
+Hereditary Angioedema,Recurrent attacks of severe swelling,Hematology
+Hodgkin's Disease,"Fever, night sweats, weight loss, nonpainful enlarged lymph nodes",Hematology and oncology
+Hordeolum,Red tender bump at the edge of the eyelid,"Ophthalmology, optometry"
+Hunter Syndrome,"Skeletal abnormalities, hearing loss, retinal degeneration, enlarged liver and spleen",Endocrinology
+Hypercalcemia-Supravalvar Aortic Stenosis,"Facial changes including underdeveloped chin structure, intellectual disability, overly friendly nature, short height","Medical genetics, pediatrics"
+Hyperemesis Gravidarum,Nausea and vomiting such that weight loss and dehydration occur,"Obstetrics
+Gastroenterology"
+Idiopathic Pulmonary Fibrosis,"Shortness of breath, dry coughing",Pulmonology
+Infantile Spinal Muscular Atrophy,Loss of motor neurons resulting in muscle wasting,Neurology
+Infectious Mononucleosis,"Fever, sore throat, enlarged lymph nodes in the neck, fatigue",Infectious disease
+Jakob-Creutzfeldt Disease,"Early: memory problems, behavioral changes, poor coordination, visual disturbances
+Later: dementia, involuntary movements, blindness, weakness, coma",Neurology
+Juvenile Diabetes,"Frequent urination, increased thirst, weight loss",Endocrinology
+LGMD,Pelvic muscle weakness,"Neurology, neuromuscular medicine"
+Listeriosis,"Diarrhea, fever, headache",Infectious disease
+Lou Gehrig's Disease,"Early: Stiff muscles, muscle twitches, gradual increasing weakness
+Later: Difficulty in speaking, swallowing, and breathing; respiratory failure; 10–15% experience frontotemporal dementia",Neurology
+Macular Degeneration,Blurred or no vision in the center of the visual field,"Ophthalmology, optometry"
+Manic-Depressive Disorder,Periods of depression and elevated mood,"Psychiatry, clinical psychology"
+Miscarriage,Vaginal bleeding with or without pain,"Obstetrics and Gynaecology, Neonatology, Pediatrics"
+Motor Neuron Disease,"Early: Stiff muscles, muscle twitches, gradual increasing weakness
+Later: Difficulty in speaking, swallowing, and breathing; respiratory failure; 10–15% experience frontotemporal dementia",Neurology
+MPS II,"Skeletal abnormalities, hearing loss, retinal degeneration, enlarged liver and spleen",Endocrinology
+Munchausen Syndrome by Proxy,Variable,Psychiatry
+Necrotizing Enterocolitis,"Poor feeding, bloating, decreased activity, vomiting of bile","Pediatrics, gastroenterology, neonatology"
+Nicotine Withdrawal,"Cravings for nicotine, anger or irritability, anxiety, depression, impatience, trouble sleeping, diarrhea, restlessness, hunger, and difficulty concentrating",Psychiatry
+Non-Hodgkin's Lymphoma,"Enlarged lymph nodes, fever, night sweats, weight loss, tiredness, itching",Hematology and oncology
+Noroviruses,"Diarrhea, vomiting, stomach pain, headache","Emergency medicine, pediatrics"
+Oral Cancer,"Persistent rough white or red patch in the mouth lasting longer than 2 weeks, ulceration, lumps/bumps in the neck, pain, loose teeth, difficulty swallowing","Oncology, oral and maxillofacial surgery, ENT surgery"
+PMS,"Fatigue, irritability and other mood changes, tender breasts, abdominal bloating","Gynecology, psychiatry"
+Postmenopausal,No menstrual periods for a year,Gynecology
+Pulmonary Arterial Hypertension,"Chest pain, fatigue","Pulmonology, cardiology"
+Primary Ciliary Dyskinesia,"Respiratory problems, chronic mucus-producing cough and runny nose.",Pulmonology
+"Pulmonary Hypertension, Secondary","Chest pain, fatigue","Pulmonology, cardiology"
+"Purpura, Thrombotic Thrombocytopenic","Large bruises, fever, weakness, shortness of breath, confusion, headache",Hematology
+Raynaud's Phenomenon,"An affected part turning white, then blue, then red, burning",Rheumatology
+Reflex Neurovascular Dystrophy,"Pain, allodynia, hypo- or hyperesthesia, skin temperature abnormalities, atrophy, stiffness","Neurology, psychiatry, anesthesiology"
+Reflex Sympathetic Dystrophy Syndrome,"Pain, allodynia, hypo- or hyperesthesia, skin temperature abnormalities, atrophy, stiffness","Neurology, psychiatry, anesthesiology"
+Ringworm,"Red, itchy, scaly, circular skin rash","Dermatology, Internal Medicine"
+Rocky Mountain Spotted Fever,"Early: Fever, headache
+Later: Rash",Infectious disease
+Shigellosis,"Diarrhea, fever, abdominal pain",Infectious disease
+Sjogren's Syndrome,"Dry mouth, dry eyes, other areas of dryness","Immunology, rheumatology"
+"Syphilis, Congenital","Rash, fever, large liver and spleen, skeletal abnormalities",Infectious diseases
+Tardive Dyskinesia,"Involuntary, repetitive body movements","Neurology, psychiatry"
+Tay-Sachs Disease,"Initially: Decreased ability to turn over, sit, or crawl
+Later: Seizures, hearing loss, inability to move",Medical genetics
+Temporal Arteritis,"Headache, pain over the temples, flu-like symptoms, double vision, difficulty opening the mouth","Rheumatology, emergency medicine, Immunology"
+Tendinopathy,"Pain, swelling",Primary care
+Thrombophlebitis,Skin redness,Cardiology
+Thyrotoxicosis,"Irritability, muscle weakness, sleeping problems, fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, weight loss",Endocrinology
+Tic Douloureux,"Typical: episodes of severe, sudden, shock-like pain in one side of the face that lasts for seconds to minutes
+Atypical: constant burning pain",Neurology
+Tourette's Syndrome,Tics,"Pediatrics, neurology, psychiatry"
+Treacher Collins Syndrome,"Deformities of the ears, eyes, cheekbones, chin",Medical genetics
+Tuberculosis (TB),"Chronic cough, fever, cough with bloody mucus, weight loss","Infectious disease, pulmonology"
+Tularemia,"Fever, skin ulcer, large lymph nodes",Infectious disease
+Urethral Cancer,"Blood in the urine, lump at end of penis, Bloody urethral discharge.",Oncology Urology
+Urinary Tract Infections,"Pain with urination, frequent urination, feeling the need to urinate despite having an empty bladder","Infectious disease, Urology"
+Uterine Cancer,"Endometrial cancer: vaginal bleeding, pelvic pain
+Uterine sarcoma: vaginal bleeding, mass in the vagina","Gynecology, oncology"
+Vaginal Yeast Infections,"Vaginal itching, burning with urination, white and thick vaginal discharge, pain with sex, redness around the vagina",Gynaecology
+Verruca,"Skin colored lesion, may be painful","Dermatology, Podiatry"
+West Nile Fever,"None, fever, headache, vomiting or diarrhea and muscle aches rash",Infectious disease
+Williams Syndrome,"Facial changes including underdeveloped chin structure, intellectual disability, overly friendly nature, short height","Medical genetics, pediatrics"
+Williams-Beuren Syndrome,"Facial changes including underdeveloped chin structure, intellectual disability, overly friendly nature, short height","Medical genetics, pediatrics"
+WPW Syndrome,"Abnormally fast heartbeat, palpitations, shortness of breath, lightheadedness, loss of consciousness",Cardiology
+Xeroderma Pigmentosum,"Severe sunburn after only a few seconds in the sun, freckling in sun-exposed areas, dry skin, changes in skin pigmentation",Medical genetics
+Yellow Fever,"Fever, chills, muscle pain, headache, yellow skin",Infectious disease
+Zika,"Fever, red eyes, joint pain, headache, maculopapular rash, Sometimes none",Infectious disease
